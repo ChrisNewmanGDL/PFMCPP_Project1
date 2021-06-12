@@ -33,7 +33,7 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
                 action: consume electricity
                 action: burn out and destroy filament.
 
-        
+ 
  3) write out how you'd call that action in pseudo code, in the space after the plain-english action
  
  4) If the action requires multiple words, use camelCaseToNameIt
@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cat
+//  action 1: the cat scratches
+cat.scratch();
+//  action 2: the cat eats
+cat.eat();
+//  action 3:the cat sleeps
+ cat.sleep();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: footballer
+//  action 1: footballer kicks
+footballer.kick();
+//  action 2: footballer dives
+footballer.dive();
+//  action 3: footballer scores
+ footballer.score();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: pen
+//  action 1: the pen writes
+pen.write();
+//  action 2: the pen leaks
+pen.leak();
+//  action 3: the pen runs out of ink
+pen.runOutOfInk();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:mouse
+//  action 1: mouse clicks
+mouse.click();
+//  action 2: mouse clicks and drags
+mouse.clickAndDrag();
+//  action 3: mouse moves
+mouse.move();
+//  5) alarmClock
+//  Noun: alarm clock
+//  action 1:alarm clock ticks
+alarmClock.tick();
+//  action 2:alarm clock turns hour hand
+alarmClock.turnHourHand();
+//  action 3:alarm clock rings
+alarmClock.ring();
+//  6) 
+//  Noun: star
+//  action 1: star shines
+star.shine();
+//  action 2:star twinkles
+star.twinkle();
+//  action 3:star implodes
+star.implode();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: octopus
+//  action 1:octopus swims
+octopus.swim();
+//  action 2:octopus changes skin colour
+octopus.changeSkinColour();
+//  action 3:octopus retracts tentacle
+octopus.retractTentacle();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: sun
+//  action 1:sun shines
+sun.shine();
+//  action 2:sun rotates
+sun.rotate();
+//  action 3:sun emits flare
+sun.emitFlare();
+//  9) 
+//  Noun: politician
+//  action 1:politician gives a speech
+politician.giveSpeech();
+//  action 2:politician votes
+politician.vote();
+//  action 3:politician visits constituency
+politician.visitConstituency();
+//  10) 
+//  Noun:child
+//  action 1:child plays
+child.play();
+//  action 2:child learns
+child.learn();
+//  action 3:child grows
+child.grow();
 
 
 #endif
