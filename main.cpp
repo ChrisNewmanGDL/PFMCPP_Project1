@@ -108,13 +108,13 @@ octopus.changeSkinColour();
 //  action 3:octopus retracts tentacle
 octopus.retractTentacle();
 //  8)
-//  Noun: sun
-//  action 1:sun shines
-sun.shine();
-//  action 2:sun rotates
-sun.rotate();
-//  action 3:sun emits flare
-sun.emitFlare();
+//  Noun: cppCoder
+//  action 1:cpp coder creates a function
+cppCoder.createFunction();
+//  action 2:cppCoder eats lunch 
+cppCoder.eatLunch();
+//  action 3:cppCoder debugs code
+cppCoder.debugCode();
 //  9) 
 //  Noun: politician
 //  action 1:politician gives a speech
